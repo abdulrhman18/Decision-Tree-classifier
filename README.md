@@ -1,1 +1,1 @@
-# Decision-Tree-classifier
+Decision Tree algorithm.
